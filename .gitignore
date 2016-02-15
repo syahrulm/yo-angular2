@@ -1,0 +1,13 @@
+.DS_Store
+.git
+*.swp
+.gitignore
+.vscode
+.idea
+node_modules
+jspm_packages
+*.log
+dist/
+typings
+doc
+coverage

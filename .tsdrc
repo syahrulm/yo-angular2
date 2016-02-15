@@ -1,0 +1,5 @@
+{
+    "proxy": "http://10.0.2.18:3128",
+    "strictSSL": false,
+    "token": "9554d488d8714fb49d8b24855a69797cf86ccbbd"
+}
